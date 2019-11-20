@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hirotoyoshidome/drawing-d3js#readme",
   "dependencies": {
-    "d3": "^5.14.1"
+    "d3": "^5.14.1",
+    "node-fetch": "^2.6.0"
   }
 }
