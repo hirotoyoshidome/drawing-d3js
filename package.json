@@ -1,0 +1,22 @@
+{
+  "name": "drawing-d3js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirotoyoshidome/drawing-d3js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirotoyoshidome/drawing-d3js/issues"
+  },
+  "homepage": "https://github.com/hirotoyoshidome/drawing-d3js#readme",
+  "dependencies": {
+    "d3": "^5.14.1"
+  }
+}
